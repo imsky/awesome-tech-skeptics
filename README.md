@@ -1,4 +1,8 @@
-# awesome-anti-spa
+# Awesome Anti-SPA
+
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fimsky%2Fawesome-anti-spa&via=imskyco&text=Awesome%20Anti-SPA)
+
+A list of links critical of the single-page app pattern.
 
 **[The balance has shifted away from SPAs](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/)** (2022) by [Nolan Lawson](https://nolanlawson.com)<br>
   > There’s a feeling in the air. A zeitgeist. SPAs are no longer the cool kids they once were 10 years ago.
