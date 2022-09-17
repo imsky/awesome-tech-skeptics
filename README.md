@@ -4,6 +4,9 @@
 
 A list of links critical of the single-page app pattern.
 
+**[SPAs were a mistake](https://gomakethings.com/spas-were-a-mistake/)** (2022) by [Chris Ferdinandi](https://gomakethings.com)<br>
+  > Most developers do it wrong, and for the ones who do it right, it results in a ton of extra code to recreate features the browser already gave you for free.
+
 **[The balance has shifted away from SPAs](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/)** (2022) by [Nolan Lawson](https://nolanlawson.com)<br>
   > There’s a feeling in the air. A zeitgeist. SPAs are no longer the cool kids they once were 10 years ago.
 
