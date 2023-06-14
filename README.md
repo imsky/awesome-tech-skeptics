@@ -1,8 +1,10 @@
-# Awesome Anti-SPA
+# Awesome Tech Skeptics
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fimsky%2Fawesome-anti-spa&via=imskyco&text=Awesome%20Anti-SPA)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fimsky%2Fawesome-tech-skeptics&via=imskyco&text=Awesome%20Tech%20Skeptics)
 
-A list of links critical of the single-page app pattern.
+This is a list critical of various tech trends.
+
+## Single page applications
 
 **[SPAs were a mistake](https://gomakethings.com/spas-were-a-mistake/)** (2022) by [Chris Ferdinandi](https://gomakethings.com)<br>
   > Most developers do it wrong, and for the ones who do it right, it results in a ton of extra code to recreate features the browser already gave you for free.
@@ -52,9 +54,23 @@ A list of links critical of the single-page app pattern.
 **[Are Single Page Apps Bad?](http://tatiyants.com/are-single-page-apps-bad/)** (2013) by [Alex Tatiyants](http://tatiyants.com)
   > I do agree that using SPAs for everything is not ideal.
 
+## GraphQL
+
+[GraphQL kinda sucks](https://news.ycombinator.com/item?id=32366759) (2022)
+
+[GraphQL makes your public API equal to a generic database](https://mobile.twitter.com/jmhodges/status/1522385068974432256) (2022)
+
+[GraphQL is a trap?](https://news.ycombinator.com/item?id=31284846) (2022)
+
+[Why you shouldn't use GraphQL](https://web.archive.org/web/20220804231217/https://blog.logrocket.com/why-you-shouldnt-use-graphql/) (2021)
+
+[Why I am giving up on GraphQL (kinda)](https://www.abhaybhargav.com/why-i-am-giving-up-on-graphql-kinda/) (2020)
+
+[Criticisms of GraphQL](https://medium.com/@CBowdon/criticisms-of-graphql-45e847a0bace) (2019)
+
 ## License
 
-awesome-anti-spa is provided under the [MIT license](./LICENSE).
+awesome-tech-skeptics is provided under the [MIT license](./LICENSE).
 
 ## Contributing
 
